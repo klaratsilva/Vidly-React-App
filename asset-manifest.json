@@ -1,0 +1,16 @@
+{
+  "main.css": "/vidly_frontend/static/css/main.9bfd5820.chunk.css",
+  "main.js": "/vidly_frontend/static/js/main.ce8dc2c7.chunk.js",
+  "main.js.map": "/vidly_frontend/static/js/main.ce8dc2c7.chunk.js.map",
+  "runtime~main.js": "/vidly_frontend/static/js/runtime~main.eb1655dd.js",
+  "runtime~main.js.map": "/vidly_frontend/static/js/runtime~main.eb1655dd.js.map",
+  "static/css/2.4e5a0885.chunk.css": "/vidly_frontend/static/css/2.4e5a0885.chunk.css",
+  "static/js/2.7e65ab55.chunk.js": "/vidly_frontend/static/js/2.7e65ab55.chunk.js",
+  "static/js/2.7e65ab55.chunk.js.map": "/vidly_frontend/static/js/2.7e65ab55.chunk.js.map",
+  "index.html": "/vidly_frontend/index.html",
+  "precache-manifest.1c67627fbb1d9f126f13602c97d377fa.js": "/vidly_frontend/precache-manifest.1c67627fbb1d9f126f13602c97d377fa.js",
+  "service-worker.js": "/vidly_frontend/service-worker.js",
+  "static/css/2.4e5a0885.chunk.css.map": "/vidly_frontend/static/css/2.4e5a0885.chunk.css.map",
+  "static/css/main.9bfd5820.chunk.css.map": "/vidly_frontend/static/css/main.9bfd5820.chunk.css.map",
+  "static/media/font-awesome.css": "/vidly_frontend/static/media/fontawesome-webfont.fee66e71.woff"
+}
